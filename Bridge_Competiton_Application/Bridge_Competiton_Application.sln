@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Bridge_Competiton_Application", "Bridge_Competiton_Application.vbproj", "{71110434-E2CD-4F5E-A3E2-257050DD3469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71110434-E2CD-4F5E-A3E2-257050DD3469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71110434-E2CD-4F5E-A3E2-257050DD3469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71110434-E2CD-4F5E-A3E2-257050DD3469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71110434-E2CD-4F5E-A3E2-257050DD3469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB058FE-2297-4F8E-A721-0137F3D50B26}
+	EndGlobalSection
+EndGlobal
